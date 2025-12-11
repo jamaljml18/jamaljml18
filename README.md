@@ -21,13 +21,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamaljml18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamaljml18&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<br/>
-
 <h3>📫 Let's Connect</h3>
 
 <a href="https://www.linkedin.com/in/muhammad-jamaluddin-182f04/" target="_blank">
