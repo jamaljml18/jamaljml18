@@ -10,7 +10,7 @@
 
 <br/>
 
-<h3>🛠️ Tech Stack & Arsenal</h3>
+<h3>🛠️ Tech Stack</h3>
 
 | **Game Development** | **Web Frontend** | **Backend & Database** |
 |:---:|:---:|:---:|
@@ -22,8 +22,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jamaljml18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamaljml18&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <br/>
