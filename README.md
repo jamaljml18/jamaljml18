@@ -24,7 +24,11 @@
 <h3>📫 Let's Connect</h3>
 
 <a href="https://www.linkedin.com/in/muhammad-jamaluddin-182f04/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://gitlab.com/jamalmhmmd18/" target="_blank">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 </a>
 
 </div>
